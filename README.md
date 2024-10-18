@@ -52,8 +52,6 @@ Release date: 6-Sep-2024
 
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
 ### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://oacer.com/]
-
 ---
 
 <p align="center">Made with Love ❤️</p>
