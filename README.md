@@ -1,13 +1,11 @@
-<p align="center"><img src="https://oacer.com/wp-content/uploads/2023/10/Logo1.png" alt="MAS Logo"></p>
+<p align="center">
+  <img src="https://oacer.com/wp-content/uploads/2023/10/Logo1.png" alt="MAS Logo" style="width: 30%;">
+</p>
 
 <h1 align="center">Windows / Office Suite  Activation  Scripts </h1>
 
 <p align="center">A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</p>
 
-<p align="center">
-
-    <a href="https://twitter.com/oacergroup"> alt="Follow us on X" title="Follow us on X"></a>
-</p>
 
 <hr>
   
@@ -54,7 +52,7 @@ Release date: 6-Sep-2024
 
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
 ### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
+### Homepage - [https://oacer.com/]
 
 ---
 
