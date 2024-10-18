@@ -6,7 +6,7 @@
 
 <p align="center">
 
-    <a href="https://twitter.com/oacergroup"><img src="https://cdnsm5-ss13.sharpschool.com/UserFiles/Servers/Server_217439/Image/follow%20us%20on%20X.png" alt="Follow us on X" title="Follow us on X"></a>
+    <a href="https://twitter.com/oacergroup"><img src="https://resources.finalsite.net/images/f_auto,q_auto/v1698259568/rsdmoorg/wlt5oc3app6hjje4bqg7/x-button.png" alt="Follow us on X" title="Follow us on X"></a>
 </p>
 
 <hr>
