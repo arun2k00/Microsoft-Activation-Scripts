@@ -6,7 +6,7 @@
 
 <p align="center">
 
-    <a href="https://twitter.com/oacergroup"><img src="https://x.com/oacer_group" alt="Follow us on X" title="Follow us on X"></a>
+    <a href="https://twitter.com/oacergroup"><img src="https://x.com/oacer_group"> alt="Follow us on X" title="Follow us on X"></a>
 </p>
 
 <hr>
